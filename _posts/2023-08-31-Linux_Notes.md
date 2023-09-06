@@ -3,7 +3,7 @@ toc: true
 comments: true
 layout: post
 title: Linux Lesson Notes
-type: tangibles
+type: hacks
 description: Short summary of what I learned from the linux lesson
 courses: { compsci: {week: 1} }
 ---

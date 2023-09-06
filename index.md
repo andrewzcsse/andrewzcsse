@@ -9,6 +9,7 @@ This is about your journey. Start now!!!
 Starting my journey on 8/21
 
 My Freeform Picture
+
 <img style="height:400px;width:250px" src="images/Freeform Picture.png" alt=Freeform Picture>
 
 <img src="images/Padres Logo.png" alt="Padres Logo">
