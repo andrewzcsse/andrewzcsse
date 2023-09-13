@@ -21,7 +21,7 @@ courses: { compsci: {week: 2} }
         display: none;
         border-style: solid;
         border-width: 10px;
-        border-color: #FFFFFF;
+        border-color: #000000;
     }
     canvas:focus{
         outline: none;
