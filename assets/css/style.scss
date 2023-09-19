@@ -79,11 +79,11 @@
   /* styling for the calculator clear button */
   .calculator-clear {
     @extend .button;
-    background-color: #000000;
+    background-color: #fc0000;
   }
   
   /* styling for the calculator equals button */
   .calculator-equals {
     @extend .button;
-    background-color: #00b646;
+    background-color: #000000;
   }
