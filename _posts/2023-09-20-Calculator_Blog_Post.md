@@ -23,8 +23,8 @@ toc: true
         - Tables that display value 1 and value 2
         - Achieving the average of two values
     - .MD Calculator
-        - CHange coloring
-        - Add multiple functions
+        - Change coloring
+        - Added multiple functions
 
 # Use of Agile Methodology
 - We split up the work once we had established out work in order to minimize the amount of developing each one of us would have indivudally had to do
