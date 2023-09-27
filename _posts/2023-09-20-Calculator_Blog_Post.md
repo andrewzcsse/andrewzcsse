@@ -2,6 +2,7 @@
 comments: false
 type: hacks
 layout: post
+title: Calculator Blog Post
 courses: {'compsci': {'week': 5}}
 description: Our group findings from our practice with the JS calculators and lessons from JS input and JS output w/ objects
 toc: true
