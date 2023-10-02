@@ -3,7 +3,7 @@ title: Web Basics Test Review Ticket
 description: Decsription of all hacks and findings for my web basics test post-grading
 toc: true
 comments: true
-courses: { compsci {week: 6} }
+courses: { compsci: {week: 6} }
 layout: post
 type: tangibles
 ---
